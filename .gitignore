@@ -59,3 +59,6 @@ _site
 secrets.json
 .jekyll-metadata
 .ruby-version
+
+*.iml
+*lock.json
